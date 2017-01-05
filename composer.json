@@ -1,0 +1,12 @@
+{
+    "name": "danielmora/search-words",
+    "description": "Project to test the php league packages",
+    "authors": [
+        {
+            "name": "Daniel Mora",
+            "email": "mail@danielmora.cr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
