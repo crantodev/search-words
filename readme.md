@@ -1,6 +1,4 @@
-# Seach words from text using PHP
+# Tester
+ This is a project to test features, third party packages and other things.
 
-This is a simple example (perhaps there are better) how to get the most repeated words in text
-
-## TO DO
-Get the returned words and search the definitions in dictionary
+Great packages to test [PHP League](https://thephpleague.com/#packages)
